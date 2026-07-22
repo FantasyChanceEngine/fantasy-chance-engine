@@ -39,4 +39,3 @@ Připravit základní verzi Discord nástroje **Uklidňovátko** před prvním k
 ---
 
 **Názory inspirují. Data rozhodují.**
-
